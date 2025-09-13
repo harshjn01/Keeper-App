@@ -1,7 +1,8 @@
 {
-  "name": "keeper-part-3-completed",
+  "name": "Keeper-App",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://harshjn01.github.io/keeper-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
